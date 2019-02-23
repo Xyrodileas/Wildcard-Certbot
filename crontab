@@ -1,0 +1,2 @@
+# At 04:01 on day-of-month 15 in every 2nd month.
+1 4 15 */2 * bash /opt/automated_certbot.sh
